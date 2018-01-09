@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IncrementarFragmentos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_result_txtResult">0</string>
+    <string name="fragment_increment_btnIncrement">Increment</string>
+</resources>
